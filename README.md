@@ -24,4 +24,4 @@ AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar p
 
 ![image](https://user-images.githubusercontent.com/106991507/176671410-42f5368e-85e8-4ad8-aa04-421479db6346.png)
 ![image](https://cdn.discordapp.com/attachments/992025624531177502/992028438070296617/unknown.png)
-
+![image](https://cdn.discordapp.com/attachments/992025624531177502/992028438070296617/unknown.png)
