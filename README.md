@@ -21,3 +21,6 @@ Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps]
 AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp özelliğinin aktif olması zorunlu! Ayrıca 'While Clicking' Özelliği ile sadece Fareye baslı tutarken çalışır
 
 AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar
+![calciHtmlLogo](![image](https://user-images.githubusercontent.com/106991507/176671319-1481a866-1560-4abe-a894-5a4a6cf47b73.png)
+![calciHtmlLogo](![image](![image](https://user-images.githubusercontent.com/106991507/176671410-42f5368e-85e8-4ad8-aa04-421479db6346.png)
+
