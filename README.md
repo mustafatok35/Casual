@@ -23,4 +23,5 @@ AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp öz
 AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar
 (![image](https://user-images.githubusercontent.com/106991507/176671319-1481a866-1560-4abe-a894-5a4a6cf47b73.png)
 (![image](https://user-images.githubusercontent.com/106991507/176671410-42f5368e-85e8-4ad8-aa04-421479db6346.png)
+(![image](https://cdn.discordapp.com/attachments/992025624531177502/992028438070296617/unknown.png)
 
