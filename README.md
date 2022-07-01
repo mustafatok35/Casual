@@ -19,6 +19,8 @@ BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir
 
 Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps]
 
+Ignore Chat Oyunda Chatteyken Bir özelliğin aktif olmasını engeller ve chat tuşunun 't' olması gerekmekte
+
 AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp özelliğinin aktif olması zorunlu! Ayrıca 'While Clicking' Özelliği ile sadece Fareye baslı tutarken çalışır
 
 AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar
