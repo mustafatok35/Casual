@@ -1,7 +1,7 @@
 # Casual
 Özellikler
 
-Airjump Havada birden çok zıplamadır
+Airjump Havada birden çok zıplamadır (Ban Risk)
 
 CPS Bypasser Craftrise cps limitini devre dışı bırakır [25-75] cps yapabilirsiniz
 
