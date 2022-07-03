@@ -5,6 +5,8 @@ Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
 
 Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
 
+AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar.
+
 BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
 
 Airjump Havada birden çok zıplamadır (Ban Risk).
@@ -22,8 +24,6 @@ Title Changer oyunun üstündeki CraftRise yazısını 'Casual Client' olarak de
 Ignore Chat Oyunda Chatteyken Bir özelliğin aktif olmasını engeller ve chat tuşunun 't' olması gerekmekte.
 
 AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp özelliğinin aktif olması zorunlu! Ayrıca 'While Clicking' Özelliği ile sadece Fareye baslı tutarken çalışır.
-
-AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar.
 
 Çalıştırdıktan sonra belirtilen hwid kodunuzu kopyalayın ve [Discord](https://discord.gg/YtRPBHb3wy) sunucumuza gelip doğrulayın ve doğruladıktan sonra hwidiniz kayıtlı değil diyorsa hwidiniz kayıt edildikten sonra kaydedilmesi için 2 dakika bekleyip öyle girin olmuyorsa Casual'ı Yeniden Başlatmayı deneyebilirsiniz.
 
