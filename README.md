@@ -1,5 +1,6 @@
 # Casual
 Özellikler
+
 Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
 
 Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
