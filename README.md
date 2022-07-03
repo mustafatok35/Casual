@@ -1,29 +1,29 @@
 # Casual
 Özellikler
 
-Airjump Havada birden çok zıplamadır (Ban Risk)
+Airjump Havada birden çok zıplamadır (Ban Risk).
 
-CPS Bypasser Craftrise cps limitini devre dışı bırakır [25-75] cps yapabilirsiniz
+CPS Bypasser Craftrise cps limitini devre dışı bırakır [25-75] cps yapabilirsiniz , ayrıca bu özellik oyundan atabilir speedi kısmayı deneyebilirsiniz.
 
-ESP rakipleri daha iyi görmenizi sağlar ve aimaissist özelliği için bunu kullanmanız zorunludur
+ESP rakipleri daha iyi görmenizi sağlar ve aimaissist özelliği için bunu kullanmanız zorunludur.
 
-Aray List hile menüsünü gösterir sadece oyundayken çalışır
+Aray List hile menüsünü gösterir sadece oyundayken çalışır.
 
-Toggle Sounds bir özelliği aktif ettiğinizde ses verir
+Toggle Sounds bir özelliği aktif ettiğinizde ses verir.
 
-Title Changer oyunun üstündeki CraftRise yazısını 'Casual Client' olarak değiştirir
+Title Changer oyunun üstündeki CraftRise yazısını 'Casual Client' olarak değiştirir.
 
-Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS]
+Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
 
-BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir
+BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
 
-Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps]
+Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
 
-Ignore Chat Oyunda Chatteyken Bir özelliğin aktif olmasını engeller ve chat tuşunun 't' olması gerekmekte
+Ignore Chat Oyunda Chatteyken Bir özelliğin aktif olmasını engeller ve chat tuşunun 't' olması gerekmekte.
 
-AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp özelliğinin aktif olması zorunlu! Ayrıca 'While Clicking' Özelliği ile sadece Fareye baslı tutarken çalışır
+AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp özelliğinin aktif olması zorunlu! Ayrıca 'While Clicking' Özelliği ile sadece Fareye baslı tutarken çalışır.
 
-AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar
+AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar.
 
 Çalıştırdıktan sonra belirtilen hwid kodunuzu kopyalayın ve [Discord](https://discord.gg/YtRPBHb3wy) sunucumuza gelip doğrulayın ve doğruladıktan sonra hwidiniz kayıtlı değil diyorsa tekrar başlatabilirsiniz.
 
