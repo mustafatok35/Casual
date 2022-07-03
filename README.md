@@ -1,4 +1,4 @@
-# Casual
+# Casual 1.55
 Özellikler
 
 Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
