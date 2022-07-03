@@ -1,5 +1,10 @@
 # Casual
 Özellikler
+Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
+
+Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
+
+BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
 
 Airjump Havada birden çok zıplamadır (Ban Risk).
 
@@ -12,12 +17,6 @@ Aray List hile menüsünü gösterir sadece oyundayken çalışır.
 Toggle Sounds bir özelliği aktif ettiğinizde ses verir.
 
 Title Changer oyunun üstündeki CraftRise yazısını 'Casual Client' olarak değiştirir.
-
-Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
-
-BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
-
-Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
 
 Ignore Chat Oyunda Chatteyken Bir özelliğin aktif olmasını engeller ve chat tuşunun 't' olması gerekmekte.
 
