@@ -1,11 +1,11 @@
-# Casual 1.55
+# Casual 1.60
 Özellikler
 
 Left Clicker Otomatik Farenin Sol Buttonuna tıklar [5-75 CPS].
 
 Right Clicker Otomatik Farenin Sağ Buttonuna tıklar [5-75 Cps].
 
-AutoRod Otomatik olta atar ve olta makrosudur AutoPerRod Sınırsız olta atar prees ise o tuşa bastığınızda 1 kere atar.
+AutoRod Otomatik olta atar ve olta makrosudur ClickPerRod Fareye Baslı Tutarken olta atar prees ise o tuşa bastığınızda 1 kere atar.
 
 BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
 
