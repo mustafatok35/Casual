@@ -28,5 +28,5 @@ AimAssist rakiplere daha iyi aim almanızı sağlar Ve bu özellik için esp öz
 Çalıştırdıktan sonra belirtilen hwid kodunuzu kopyalayın ve [Discord](https://discord.gg/VdF6X2FaaE) sunucumuza gelip doğrulayın ve doğruladıktan sonra hwidiniz kayıtlı değil diyorsa hwidiniz kayıt edildikten sonra kaydedilmesi için 2 dakika bekleyip öyle girin olmuyorsa Casual'ı Yeniden Başlatmayı deneyebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/106991507/176671410-42f5368e-85e8-4ad8-aa04-421479db6346.png)
-![image](https://cdn.discordapp.com/attachments/987798532679401535/992405336545837206/unknown.png)
-![image](https://cdn.discordapp.com/attachments/987798532679401535/992405388827820092/unknown.png)
+![image](https://cdn.discordapp.com/attachments/987798532679401535/995097402975469719/unknown.png)
+![image](https://cdn.discordapp.com/attachments/987798532679401535/995097429852557434/unknown.png)
