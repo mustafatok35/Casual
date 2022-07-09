@@ -9,7 +9,7 @@ AutoRod Otomatik olta atar ve olta makrosudur ClickPerRod Fareye Baslı Tutarken
 
 BlockHit otomatik Rakiplere blockhit yapar ama şuanlık biraz buglu olabilir.
 
-Airjump Havada birden çok zıplamadır (Ban Risk).
+Airjump Havada birden çok zıplamadır (Ban Risk), bu özelliğin stabil çalışması için görev yöneticisinden ayrıntılar basıp sadece 1 tane javaw olması gerek diğerleri varsa sonlandırın yoksa airjump çalışmaz sadece 1 tane sizin oyununuz olması gerek.
 
 CPS Bypasser Craftrise cps limitini devre dışı bırakır [25-75] cps yapabilirsiniz , ayrıca bu özellik oyundan atabilir speedi kısmayı deneyebilirsiniz.
 
