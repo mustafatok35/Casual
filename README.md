@@ -15,7 +15,7 @@ CPS Bypasser Craftrise cps limitini devre dışı bırakır [25-75] cps yapabili
 
 ESP rakipleri daha iyi görmenizi sağlar ve aimaissist özelliği için bunu kullanmanız zorunludur.
 
-Aray List hile menüsünü gösterir sadece oyundayken çalışır.
+Aray List hile menüsünü gösterir sadece oyundayken çalışır, tam ekranda çalışmaz.
 
 Toggle Sounds bir özelliği aktif ettiğinizde ses verir.
 
